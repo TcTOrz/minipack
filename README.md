@@ -1,2 +1,2 @@
 # minipack
-[url]https://github.com/ronami/minipack
+[url](https://github.com/ronami/minipack)
